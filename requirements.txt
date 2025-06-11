@@ -1,0 +1,12 @@
+IPython
+graphviz
+keras
+matplotlib
+nltk
+numpy
+pandas
+pydotplus
+seaborn
+tensorflow
+wordcloud
+scikit-learn
